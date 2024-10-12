@@ -56,3 +56,12 @@ else
     Console.WriteLine($"{resultado}");
     Console.ResetColor();
 }
+
+
+
+
+
+
+
+
+USAR ESSES CÓGIGOS PARA SOLUCIONAR O EXERCÍCIO Media4Notas
